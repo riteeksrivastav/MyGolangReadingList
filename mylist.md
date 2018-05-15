@@ -8,8 +8,13 @@
 * https://morsmachine.dk/go-scheduler
 * http://www.cs.columbia.edu/~aho/cs6998/reports/12-12-11_DeshpandeSponslerWeiss_GO.pdf 
 
+# Golang Channels
+* https://www.sohamkamani.com/blog/2017/08/24/golang-channels-explained/
+
 # Must Read
 * https://teivah.io/blog/good-code-vs-bad-code-in-golang/
+
+
 
 # Tutorial
 * https://golangbot.com/learn-golang-series/
