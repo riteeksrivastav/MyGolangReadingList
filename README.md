@@ -25,4 +25,9 @@
 # Tutorial
 * https://golangbot.com/learn-golang-series/
 
+# Job Search
+* https://golang.cafe/
+* https://www.golangprojects.com/
+* https://www.welovegolang.com/
+
 
